@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>dev.eden_emu.Eden</id>
+  <name>Eden</name>
+  <summary>Nintendo Switch emulator</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <supports>
+    <control>pointing</control>
+    <control>keyboard</control>
+    <control>gamepad</control>
+  </supports>
+  <developer id="dev.eden_emu">
+    <name>Eden Emulator Team</name>
+  </developer>
+  <description>
+    <p>Eden is the world's most popular open-source Nintendo Switch emulator, forked from the Yuzu emulator — started by former Citron developer Camille LaVey and the Eden team.</p>
+    <p>The emulator is capable of running most commercial games at full speed, provided you meet the necessary hardware requirements.</p>
+    <p>A list of supported games will be available in future. Please be patient.</p>
+    <p>Check out our website for the latest news on exciting features, monthly progress reports, and more!</p>
+  </description>
+  <launchable type="desktop-id">dev.eden_emu.Eden.desktop</launchable>
+  <provides>
+    <binary>eden</binary>
+    <binary>eden-cmd</binary>
+    <id>dev.eden_emu.Eden.desktop</id>
+  </provides>
+  <categories>
+    <category>Game</category>
+    <category>Emulator</category>
+  </categories>
+  <content_rating type="oars-1.1">
+    <content_attribute id="social-chat">moderate</content_attribute>
+  </content_rating>
+  <url type="bugtracker">https://git.eden-emu.dev/eden-emu/eden/issues</url>
+  <url type="homepage">https://eden-emulator.github.io/</url>
+  <url type="donation">https://liberapay.com/crueter</url>
+  <url type="contact">https://discord.gg/edenemu</url>
+  <url type="vcs-browser">https://git.eden-emu.dev/eden-emu/eden</url>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://raw.githubusercontent.com/eden-emulator/eden-emulator.github.io/refs/heads/main/img/carousel/mario.jpg</image>
+      <caption>A screenshot of Super Mario Odyssey</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/eden-emulator/eden-emulator.github.io/refs/heads/main/img/carousel/mkart.jpg</image>
+      <caption>A screenshot of Mario Kart 8 Deluxe</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/eden-emulator/eden-emulator.github.io/refs/heads/main/img/carousel/monkey.jpg</image>
+      <caption>A screenshot of Donkey Kong Country Returns HD</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/eden-emulator/eden-emulator.github.io/refs/heads/main/img/carousel/pkmn.jpg</image>
+      <caption>A screenshot of Pokémon: Violet</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/eden-emulator/eden-emulator.github.io/refs/heads/main/img/carousel/splatoon.jpg</image>
+      <caption>A screenshot of Splatoon 3</caption>
+    </screenshot>
+    <screenshot>
+      <image>https://raw.githubusercontent.com/eden-emulator/eden-emulator.github.io/refs/heads/main/img/carousel/zelda.jpg</image>
+      <caption>A screenshot of Legend of Zelda: Tears of the Kingdom</caption>
+    </screenshot>
+  </screenshots>
+  <releases>
+    <release version="0.0.2-pre-alpha" date="2025-05-11"></release>
+    <release version="0.0.1-pre-alpha" date="2025-05-10"></release>
+  </releases>
+</component>

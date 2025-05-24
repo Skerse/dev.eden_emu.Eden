@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Eden
+Comment=Nintendo Switch emulator
+Categories=Game;Emulator;
+Icon=dev.eden_emu.Eden
+Exec=eden-launcher
+Terminal=false
