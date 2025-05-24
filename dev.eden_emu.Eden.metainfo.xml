@@ -39,28 +39,16 @@
   <url type="vcs-browser">https://git.eden-emu.dev/eden-emu/eden</url>
   <screenshots>
     <screenshot type="default">
-      <image>https://raw.githubusercontent.com/eden-emulator/eden-emulator.github.io/refs/heads/main/img/carousel/mario.jpg</image>
-      <caption>A screenshot of Super Mario Odyssey</caption>
+      <image>https://raw.githubusercontent.com/Skerse/dev.eden_emu.Eden/refs/heads/main/assets/eden-1.png</image>
+      <caption>Main window with no games loaded</caption>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/eden-emulator/eden-emulator.github.io/refs/heads/main/img/carousel/mkart.jpg</image>
-      <caption>A screenshot of Mario Kart 8 Deluxe</caption>
+      <image>https://raw.githubusercontent.com/Skerse/dev.eden_emu.Eden/refs/heads/main/assets/eden-2.png</image>
+      <caption>Emulator configuration window</caption>
     </screenshot>
     <screenshot>
-      <image>https://raw.githubusercontent.com/eden-emulator/eden-emulator.github.io/refs/heads/main/img/carousel/monkey.jpg</image>
-      <caption>A screenshot of Donkey Kong Country Returns HD</caption>
-    </screenshot>
-    <screenshot>
-      <image>https://raw.githubusercontent.com/eden-emulator/eden-emulator.github.io/refs/heads/main/img/carousel/pkmn.jpg</image>
-      <caption>A screenshot of Pokémon: Violet</caption>
-    </screenshot>
-    <screenshot>
-      <image>https://raw.githubusercontent.com/eden-emulator/eden-emulator.github.io/refs/heads/main/img/carousel/splatoon.jpg</image>
-      <caption>A screenshot of Splatoon 3</caption>
-    </screenshot>
-    <screenshot>
-      <image>https://raw.githubusercontent.com/eden-emulator/eden-emulator.github.io/refs/heads/main/img/carousel/zelda.jpg</image>
-      <caption>A screenshot of Legend of Zelda: Tears of the Kingdom</caption>
+      <image>https://raw.githubusercontent.com/Skerse/dev.eden_emu.Eden/refs/heads/main/assets/eden-3.png</image>
+      <caption>Nintendo Switch HOME Menu</caption>
     </screenshot>
   </screenshots>
   <releases>
