@@ -268,8 +268,8 @@
                 "-DCMAKE_INTERPROCEDURAL_OPTIMIZATION=ON",
                 "-DENABLE_QT_TRANSLATION=ON",
                 "-DYUZU_USE_QT_WEB_ENGINE=ON",
-                "-DDISPLAY_VERSION=0.0.1",
-                "-DBUILD_TAG=0.0.1-pre-alpha",
+                "-DDISPLAY_VERSION=0.0.2",
+                "-DBUILD_TAG=0.0.2-pre-alpha",
                 "-DBUILD_REPOSITORY=eden-emu/eden"
             ],
             "build-options": {
@@ -300,8 +300,8 @@
                 {
                     "type": "git",
                     "url": "https://git.eden-emu.dev/eden-emu/eden.git",
-                    "tag": "0.0.1-pre-alpha",
-                    "commit": "5bbb9eba32734219cd9b57dfeefaa028b1e8ab02",
+                    "tag": "0.0.2-pre-alpha",
+                    "commit": "5608ab1cd485083e81cef5cd4bd5132f03d97077",
                     "disable-shallow-clone": true,
                     "x-checker-data": {
                         "type": "git",
